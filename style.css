@@ -4,8 +4,13 @@
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+.header{
+    background-color: #212329;
+    padding: 50px;
+}
 .main{
-    background-color: chartreuse;
+    background-color: rgb(74, 93, 54);
     margin: 0 auto;
     width: 90vw;
     padding: 20px 30x;
