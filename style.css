@@ -17,8 +17,10 @@
     min-height: calc(100vh - 211px - 58px);
 
 }
-
-
+.title{
+    text-align: center;
+    color: #fff;
+}
 
 
 
